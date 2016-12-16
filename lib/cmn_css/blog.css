@@ -1,0 +1,150 @@
+@charset "UTF-8";
+
+
+
+#contents section.section {
+    clear: both;
+    width: auto;
+}
+
+#contents .blogHd {
+	background-color:#000;
+	color:#FFF;
+	font-size:16px!important;
+	padding:10px;
+	text-align:left;
+}
+
+#contents .date {
+	text-align:right;
+	margin-right:10px;
+}
+
+#contents div.editor {
+	margin:0 10px;
+}
+
+
+#contents div.editor img {
+	float:none!important;
+	margin:10px 0 15px;
+	height:auto;
+	width:100%;
+}
+
+
+#contents .pager {
+	text-align:center;
+}
+
+#contents .pager li {
+	display:inline;
+}
+
+#contents .pager span,
+#contents .pager a {
+	border:1px solid #CCC;
+	color:#888;
+	display:inline-block;
+	padding:10px;
+}
+
+#contents .pager a:hover,
+#contents .pager .current span {
+	background-color:#888;
+	color:#FFF;
+}
+
+#contents .previous span,
+#contents .next span {
+	color:#CCC;
+}
+
+
+#contents div.baMenu {
+    width: auto;
+}
+#contents div.baMenu p.sideTitle {
+    background-color: #888;
+    color: #FFF;
+    font-size: 11px !important;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;
+}
+#contents div.baMenu ul {
+    margin-bottom: 50px;
+}
+#contents div.baMenu ul li {
+    border-bottom: 1px dotted #888;
+    color: #FFF;
+    font-size: 12px !important;
+    line-height: 1.4;
+}
+#contents div.baMenu ul li a {
+    color: #888;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+#contents div.baMenu ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+#contents div.newsArea ul.newsList {
+    padding: 15px 0;
+}
+#contents div.newsArea ul.newsList li {
+    border-bottom: 1px dotted #cccccc;
+}
+#contents div.newsArea ul.newsList li a {
+    color: #666;
+    display: block;
+    padding: 10px 5px !important;
+    text-decoration: none;
+}
+#contents div.newsArea ul.newsList li a br.clear_noie {
+    display: none !important;
+}
+#contents div.newsArea ul.newsList li a span {
+    display: block;
+}
+#contents div.newsArea ul.newsList li a span.date {
+    color: #535353;
+    font-size: 12px !important;
+				text-align:left!important;
+}
+#contents div.newsArea ul.newsList li a span.title {
+    font-size: 14px !important;
+    width: auto;
+}
+#contents div.newsArea ul.newsList li a:hover span.title {
+    color: #535353;
+}
+
+
+
+
+#contents p.backBtn {
+    font-size: 12px !important;
+    padding: 15px 0 30px;
+    text-align: center;
+}
+
+#contents p.backBtn a {
+    background-color: #e6e6e6;
+    border-radius: 30px;
+    color: #535353;
+    display: inline-block;
+    line-height: 1;
+    margin: 0 10px;
+    padding: 7px 30px;
+    text-decoration: none;
+}
+
+
+
+
+

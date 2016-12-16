@@ -1,0 +1,319 @@
+@charset "utf-8";
+@charset "utf-8";
+
+/*----------------------------------------------------
+	☆article
+----------------------------------------------------*/
+
+.lh0 {
+	line-height:0!important;
+}
+
+.irohaHead {
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	color:#000;
+	text-align:center;
+	font-size:20px!important;
+	margin-bottom:30px;
+}
+
+.irohaHead span {
+	border-bottom:4px solid #c9323d;
+	padding:0 5px 5px;
+}
+
+.catch {
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight:bold!important;
+	color:#000;
+	margin-bottom:10px;
+}
+
+div.facilityList ul li {
+    margin-bottom: 15px;
+}
+
+div.facilityList ul li span {
+    color: #c9323d;
+    display: block;
+    font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.3;
+}
+
+div.facilityList ul li span.title {
+	color:#000!important;
+}
+
+div.flowList ul li {
+  margin-bottom: 15px;
+}
+
+div.flowList ul li span {
+    color: #c9323d;
+		font-family:"Times New Roman", Times, serif!important;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.3;
+		padding-bottom:5px;
+}
+
+div.flowList ul li span.title {
+	color:#000!important;
+	font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif!important;
+	font-weight:normal!important;
+}
+
+.red {
+	color: #c9323d!important;
+}
+
+.bB1 {
+	border-bottom:1px solid #DDD;
+}
+
+div.ancList {
+    padding: 0px 10px 30px;
+}
+
+div.ancList ul {
+	margin-left:1px;
+}
+
+div.ancList ul li {
+    float: left;
+    font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+    font-size: 15px !important;
+		width:50%;
+		text-align:center;
+		margin-bottom:1px;
+		line-height:2.5;
+		background:#efefef
+}
+
+div.ancList ul li a {
+	border-right:1px solid #FFF;
+	background:#000;
+  color: #FFF;
+	display:block;
+	text-decoration:none;
+}
+
+.dicHead {
+	background:url(../images/h_btm.gif) center bottom no-repeat;
+	background-size:100%;
+  font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+  font-size: 20px !important;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+ul.dicList li {
+    margin-bottom: 20px;
+}
+ul.dicList li dl dt {
+    font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+    margin-bottom: 10px;
+}
+ul.dicList li dl dt span {
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.rm0 {
+	margin-right:0;
+}
+
+div.chooseList {
+	padding:0 10px;
+}
+
+div.chooseList h4 {
+	width:50%;
+	margin:0 auto;
+}
+
+div.chooseList ul li {
+	border-bottom:1px dotted #CCC;
+	margin-bottom:20px;
+}
+
+div.chooseList ul li.last {
+	border-bottom:none;
+}
+
+div.chooseList ul li ul li {
+	border-bottom:none!important;
+	margin-bottom:3px!important;
+}
+
+.bg01 {
+	background:#eee;
+	margin-bottom:20px;
+	padding:10px;
+}
+
+div.itemBox {
+	padding:10px;
+	margin-bottom:30px;
+}
+
+.itemHead {
+	color:#000;
+	font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+	font-size:16px!important;
+	text-align:center;
+	margin-bottom:15px;
+}
+
+div.itemInr {
+	border:1px dotted #CCC;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+div.itemInr ul li span {
+	display:block;
+	color:#000;
+	font-weight:bold;
+}
+
+div.grayBox {
+    background:#eee;
+    padding: 10px;
+}
+
+div.grayBox h4 {
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px !important;
+    text-align: center;
+}
+
+div.behaviorList {
+	padding:10px;
+}
+
+div.behaviorList li {
+	border-bottom:1px solid #CCC;
+	padding:15px 0; 
+}
+
+div.behaviorList li.last {
+	border-bottom:none;
+}
+
+div.behaviorList ul li dl dt {
+	font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+	color: #c9323d;
+	font-size:20px!important;
+	margin-bottom:5px;
+}
+
+div.behaviorList ul li dl dd.imgL {
+	float:left;
+	width:30%;
+}
+
+div.behaviorList ul li dl dd.txtR {
+	float:right;
+	width:68%;
+}
+
+div.kindBox {
+	padding:0 10px;
+	margin-bottom:20px;
+}
+
+div.kindBox h4 {
+	color:#000;
+	font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+	font-size:24px!important;
+	text-align:center;
+}
+
+p.leftImg {
+	width:40%;
+	margin-right:5px;
+	margin-bottom:5px;
+	float:left;
+}
+
+div.topB {
+	border-top:1px dotted #CCC;
+	padding:20px 0;
+}
+
+ul.itemList li {
+	border-top:1px dotted #CCC;
+	padding:10px;
+}
+
+ul.itemList li dl dt {
+	float:left;
+	width:30%;
+	margin-right:5px;
+}
+
+ul.itemList li dl dd {
+	float:left;
+	width:68%;
+}
+
+ul.itemList li dl dd.name {
+	color:#000;
+	font-family: "ヒラギノ明朝 Pro W6","Hiragino Mincho Pro","HGS明朝E","ＭＳ Ｐ明朝",serif;
+	font-size:20px!important;
+}
+
+ul.itemList li dl dd.name span {
+	color: #c9323d;
+}
+
+ul.itemList li dl dd p {
+	font-size:13px!important;
+}
+
+.c0 {
+	color:#000!important;
+	font-size:10px!important;
+}
+
+div.dotBox {
+	border:1px dotted #CCC;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+div.beigeArea {
+    background:#f6f2e7;
+    padding:20px 10px;
+}
+
+div.beigeArea ul li {
+	padding:10px 0;
+	border-bottom:1px dotted #CCC;
+}
+
+div.beigeArea ul li dl dt {
+	width:40%;
+	float:left;
+}
+
+div.beigeArea ul li dl dd {
+	width:58%;
+	float:right;
+}
+
+.flR {
+	float:right;
+	width:30%;
+	margin-left:10px;
+	margin-bottom:10px; 
+}
+
+.bg02 {
+	background:url(../images/bg_side.png) right 60px no-repeat;
+	background-size:129px;
+}
